@@ -85,3 +85,10 @@ Fuse (3A)	Overcurrent protection
 Capacitors	Decoupling and bulk filtering
 Power Switch	System on/off control
 JST Battery Connector	Battery connection
+
+
+<img width="795" height="635" alt="Mini_EV_Design_Schematic" src="https://github.com/user-attachments/assets/01d08b4f-ee11-42fe-82a5-f8464ab6f3a2" />
+
+<img width="1049" height="572" alt="Mini_EV_Design_PCB" src="https://github.com/user-attachments/assets/55951542-b269-4535-924f-c0713d462826" />
+
+
